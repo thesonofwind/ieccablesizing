@@ -1,0 +1,5 @@
+{
+  "name": "IEC Cable Sizing Pro",
+  "description": "Professional underground cable sizing calculator based on IEC 60364-5-52 standards with parallel run optimization and grouping derating.",
+  "requestFramePermissions": []
+}
